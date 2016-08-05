@@ -20,3 +20,5 @@ Keys for your cores need to be added to the `keys/` directory. This can be done
 with the Particle CLI. I need to find a good way to get the ID :/
 
     particle keys save keys/ID
+
+Right now the ID is logged when running the server as `SMT ID: ...`
